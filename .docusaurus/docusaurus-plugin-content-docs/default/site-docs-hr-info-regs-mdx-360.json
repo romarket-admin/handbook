@@ -1,0 +1,27 @@
+{
+  "id": "hr-info/regs",
+  "title": "Regulations",
+  "description": "This page details all the regulations that High Rank Staff Members at RoMarket must follow.",
+  "source": "@site/docs/hr-info/regs.mdx",
+  "sourceDirName": "hr-info",
+  "slug": "/hr-info/regs",
+  "permalink": "/handbook/docs/hr-info/regs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Regulations"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HR Information",
+    "permalink": "/handbook/docs/category/hr-information"
+  },
+  "next": {
+    "title": "Promotions",
+    "permalink": "/handbook/docs/hr-info/promo"
+  }
+}

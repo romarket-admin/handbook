@@ -1,0 +1,27 @@
+{
+  "id": "general-info/ranks",
+  "title": "Rank Guide",
+  "description": "This page details the Rank Structure at RoMarket.",
+  "source": "@site/docs/general-info/ranks.mdx",
+  "sourceDirName": "general-info",
+  "slug": "/general-info/ranks",
+  "permalink": "/handbook/docs/general-info/ranks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Rank Guide"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "General Information",
+    "permalink": "/handbook/docs/category/general-information"
+  },
+  "next": {
+    "title": "SHR information",
+    "permalink": "/handbook/docs/general-info/shr"
+  }
+}

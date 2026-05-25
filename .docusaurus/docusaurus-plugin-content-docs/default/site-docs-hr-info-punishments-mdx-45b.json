@@ -1,0 +1,27 @@
+{
+  "id": "hr-info/punishments",
+  "title": "Punsishment Guide",
+  "description": "This page details the punishments for each rank at RoMarket.",
+  "source": "@site/docs/hr-info/punishments.mdx",
+  "sourceDirName": "hr-info",
+  "slug": "/hr-info/punishments",
+  "permalink": "/handbook/docs/hr-info/punishments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "sidebar_label": "Punishment Guide"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Commands",
+    "permalink": "/handbook/docs/hr-info/cmds"
+  },
+  "next": {
+    "title": "Training Sessions",
+    "permalink": "/handbook/docs/hr-info/training"
+  }
+}

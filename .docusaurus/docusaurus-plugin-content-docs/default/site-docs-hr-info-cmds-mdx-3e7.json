@@ -1,0 +1,27 @@
+{
+  "id": "hr-info/cmds",
+  "title": "Commands",
+  "description": "This page details every command usable by High Rank Staff Members.",
+  "source": "@site/docs/hr-info/cmds.mdx",
+  "sourceDirName": "hr-info",
+  "slug": "/hr-info/cmds",
+  "permalink": "/handbook/docs/hr-info/cmds",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Commands"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Promotions",
+    "permalink": "/handbook/docs/hr-info/promo"
+  },
+  "next": {
+    "title": "Punishment Guide",
+    "permalink": "/handbook/docs/hr-info/punishments"
+  }
+}

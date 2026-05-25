@@ -1,0 +1,27 @@
+{
+  "id": "hr-info/training",
+  "title": "Training Sessions",
+  "description": "This page details all information about Training Sessions.",
+  "source": "@site/docs/hr-info/training.mdx",
+  "sourceDirName": "hr-info",
+  "slug": "/hr-info/training",
+  "permalink": "/handbook/docs/hr-info/training",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "sidebar_label": "Training Sessions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Punishment Guide",
+    "permalink": "/handbook/docs/hr-info/punishments"
+  },
+  "next": {
+    "title": "Shift Sessions",
+    "permalink": "/handbook/docs/hr-info/shift"
+  }
+}

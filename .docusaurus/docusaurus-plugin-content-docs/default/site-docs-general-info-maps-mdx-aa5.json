@@ -1,0 +1,27 @@
+{
+  "id": "general-info/maps",
+  "title": "Store Maps",
+  "description": "Here you can find out the layout of each floors of the store.",
+  "source": "@site/docs/general-info/maps.mdx",
+  "sourceDirName": "general-info",
+  "slug": "/general-info/maps",
+  "permalink": "/handbook/docs/general-info/maps",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Store Maps"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHR information",
+    "permalink": "/handbook/docs/general-info/shr"
+  },
+  "next": {
+    "title": "LR Information",
+    "permalink": "/handbook/docs/category/lr-information"
+  }
+}

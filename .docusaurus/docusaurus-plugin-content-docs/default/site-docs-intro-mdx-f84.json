@@ -1,0 +1,22 @@
+{
+  "id": "intro",
+  "title": "Information",
+  "description": "If you see any innnacuracies, please contact a GE via a Support Ticket.",
+  "source": "@site/docs/intro.mdx",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/handbook/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "General Information",
+    "permalink": "/handbook/docs/category/general-information"
+  }
+}

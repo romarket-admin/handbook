@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkromarket_staff_handbook=self.webpackChunkromarket_staff_handbook||[]).push([["668"],{6569(e,r,a){a.r(r),a.d(r,{default:()=>f});var s=a(4848);a(6540);var t=a(4164),o=a(4308),n=a(8287),u=a(2831),c=a(1085);function f(e){return(0,s.jsx)(o.e3,{className:(0,t.A)(n.G.wrapper.docsPages),children:(0,s.jsx)(c.A,{children:(0,u.v)(e.route.routes)})})}}}]);
